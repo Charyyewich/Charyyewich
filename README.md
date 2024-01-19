@@ -3,7 +3,7 @@
 <p><em>Cartographer and geoinformatics in<a href="https://etut.edu.tm/">ETUT in Turkmenistan</a> <br><img </br>Backend developer in<a href="https://100haryt.com.tm">100haryt HJ</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instagram: Kerem_Charyyev](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://instagram.com/Kerem_Charyyev)
+[![Instagram: Kerem_Charyyev]([https://img.shields.io/twitter/follow/ThaiiBraga?style=social](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fmodern-badge-logo-instagram-icon_578229-124.jpg&tbnid=YEqe85uGpbfBiM&vet=12ahUKEwiVy-uQ5emDAxW7_rsIHSJ5BDwQMygBegQIARB1..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo&docid=LdG28-Bs0ryo8M&w=626&h=626&itg=1&q=instagram%20logo&ved=2ahUKEwiVy-uQ5emDAxW7_rsIHSJ5BDwQMygBegQIARB1))](https://instagram.com/Kerem_Charyyev)
 [![GitHub Charyyewich](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Charyyewich)
 
 
