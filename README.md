@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kerem Charyyev! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Cartographer and geoinformatics in<a href="https://etut.edu.tm/">ETUT in Turkmenistan</a> <p><img </br>Backend developer in<a href="https://100haryt.com.tm">100haryt HJ</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cartographer and geoinformatics in<a href="https://etut.edu.tm/">ETUT in Turkmenistan</a> <br><img </br>Backend developer in<a href="https://100haryt.com.tm">100haryt HJ</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Instagram: Kerem_Charyyev](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://instagram.com/Kerem_Charyyev)
