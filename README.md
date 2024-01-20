@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kerem Charyyev! </h2>
-<p><em>Cartographer and geoinformatics in<a href="https://etut.edu.tm/">ETUT in Turkmenistan</a> <br><img </br>Backend developer in<a href="https://100haryt.com.tm">100haryt HJ</a>
+<p><em>Cartographer and programmer<a href="https://etut.edu.tm/"> Oguz han Engineering and technology university in Turkmenistan</a> <br><img </br>Backend developer in<a href="https://100haryt.com.tm">100haryt HJ</a>
 </em></p>
 
 
